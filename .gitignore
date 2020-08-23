@@ -1,0 +1,8 @@
+peda-*
+flag.txt
+.gdb_history
+core
+echo
+intro/**
+manpage/**
+2013-bin-50/**
